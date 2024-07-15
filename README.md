@@ -38,7 +38,7 @@ In the consumer electronics space, the Internet of Things (IoT) has increasingly
 - Blynk IoT platform
 
 ## Circuit Diagram
-![Circuit Diagram](https://imgur.com/a/aLcKgl5)
+![Circuit Diagram](circuit_diagram.png)
 
 ## Installation
 ### Prerequisites
