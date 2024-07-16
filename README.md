@@ -48,7 +48,8 @@ In the consumer electronics space, the Internet of Things (IoT) has increasingly
 - Blynk IoT platform account
 
 ### Steps
-1. **Clone the Repository**: (No repo cloning, so upload files via bash)
+1. **Download the Repository Files**:
+    - Download the files from the repository to your local machine.
 2. **Install Arduino IDE**:
     - Download and install the [Arduino IDE](https://www.arduino.cc/en/software).
 3. **Install Required Libraries**:
